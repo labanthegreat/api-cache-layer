@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+*.map
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
